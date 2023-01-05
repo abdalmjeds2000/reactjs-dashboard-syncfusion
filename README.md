@@ -9,7 +9,7 @@ What i learned?
  - React hooks.
  - React router dom v6.
  - React context.
- - Syncfusion library some components like (schedule, kanban, dropdowns, calendars, tooltip, text editor and more spacially charts).
+ - Syncfusion library some components like (charts, schedule, kanban, dropdowns, calendars, tooltip, text editor and more ...).
  - Tailwind css library (classes).
  - Build responsive react app.
  - Dark and Light modes.
